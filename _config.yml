@@ -1,5 +1,5 @@
 ---
-title: "Post#1"
+title: "Blog Post One"
 date: 2020-06-08
 ---
 author: ruhidesai
@@ -13,5 +13,4 @@ github_username:  ruhidesai # DO NOT include the @ character, or else the build 
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 theme:minima
-blog post: Hi my name is Ruhi Desai.
----
+blog post
