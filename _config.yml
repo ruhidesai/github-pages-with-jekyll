@@ -1,3 +1,4 @@
+date: 2020-06-08
 title: Ruhi's Website
 author: ruhidesai
 email: rdesai3@ebnet.org
@@ -10,3 +11,4 @@ github_username:  ruhidesai # DO NOT include the @ character, or else the build 
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 theme:minima
+blog post:
