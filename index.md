@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Welcome to my website!!
 
-I'm glad you are here. I plan to talk about ...
+Hi. I'm Ruhi Desai. Here's a little bit about myself.
