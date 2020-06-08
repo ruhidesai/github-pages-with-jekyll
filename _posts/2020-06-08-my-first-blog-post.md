@@ -4,11 +4,11 @@ date: 2020-06-08
 ---
 My name is Ruhi Desai.
 
-Instagram: @ruhi_desai
+- Instagram: @ruhi_desai
 
-Snapchat: @ruhi6828
+- Snapchat: @ruhi6828
 
-Facebook: Ruhi Desai
+- Facebook: Ruhi Desai
 
 Brag Sheet:
 
