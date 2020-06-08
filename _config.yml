@@ -1,5 +1,7 @@
-date: 2020-06-08
-title: Ruhi's Website
+---
+title: "Your blog post title"
+date: YYYY-MM-DD
+---
 author: ruhidesai
 email: rdesai3@ebnet.org
 description: > # this means to ignore newlines until "baseurl:"
